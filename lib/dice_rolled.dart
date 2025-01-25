@@ -23,7 +23,7 @@ class _DiceRollerState extends State<DiceRoller> {
       mainAxisSize: MainAxisSize.min,
       children: [
         Image.asset(
-          'assets/images/dice-$currdiceroll.png',
+          'assets/images/dice-images/dice-$currdiceroll.png',
           width: 200,
         ),
         TextButton(
